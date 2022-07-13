@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "home": {
+      "header": {
+        "title": "All notes",
+        "count_1": "note",
+        "count_2": "notes",
+        "count_3": "notes"
+      },
+      "drawer": {
+        "element_1": "Language",
+        "element_2": "All notes",
+        "element_3": "Favorites"
+      },
+      "appBarHeaders": {
+        "header_1": "Search",
+        "header_2": "Favorites",
+        "header_3": "Name"
+      }
+    },
+    "message": {
+      "add": "Note added",
+      "delete": "Delete note", 
+      "favorites": "Add note to favorites", 
+      "info": {
+        "count_1": "symbol",
+        "count_2": "symbols",
+        "count_3": "symbols",
+        "actionTrue": "Yes",
+        "creationDate": "Date of creation",
+        "editedDate": "Date edited",
+        "notificationDate": "Last notification date"
+      } 
+    }  
+  }
+}
+

@@ -1,0 +1,14 @@
+// AwesomeNotifications().createdStream.listen((notification) { 
+//   ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(notification.channelKey ?? '')));
+// });
+
+
+// void _hideSystemNavigationBar() {
+//   SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual,
+//       overlays: [SystemUiOverlay.top]);
+// }
+
+// void _showSystemNavigationBar() {
+//   SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual,
+//       overlays: [SystemUiOverlay.top, SystemUiOverlay.bottom]);
+// }
